@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gizmo UX Reviewer"
+  short_description: "Prioriza fontes confiáveis em análises de UX"
+  default_prompt: "Use $gizmo-ux-reviewer para analisar esta experiência de UX com fontes apropriadas."
